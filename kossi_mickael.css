@@ -1,0 +1,45 @@
+.logo_airbnb {
+    width: 170px;
+    height: 75px;
+}
+
+nav {
+    border-bottom: 1px solid #CFCFCF;
+    box-shadow: 5px 5px 5px 0px #CFCFCF ;
+}
+
+body {
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+}
+
+.airbnb {
+    width: 80%;
+    background-color: grey;
+    height: auto;
+}
+
+.flexbox {
+    display: flex;
+    justify-content: center; 
+    flex-direction: row;
+    flex-wrap: wrap; 
+    text-align: center;  
+}
+
+img {
+    width: 40%;
+    height: 300px;
+    border-radius: 20px;
+}
+
+.titre_gras{
+    font-weight: bold;
+}
+
+
+

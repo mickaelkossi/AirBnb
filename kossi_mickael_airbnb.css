@@ -1,0 +1,72 @@
+.logo_airbnb {
+    width: 170px;
+    height: 75px;
+}
+
+nav {
+    border-bottom: 1px solid #CFCFCF;
+    box-shadow: 5px 5px 5px 0px #CFCFCF ;
+    
+}
+
+body {
+    margin: 0;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+.airbnb {
+    width: 80%;
+    height: auto;
+}
+
+.flexbox {
+    display: flex;
+    justify-content: center; 
+    flex-direction: row;
+    flex-wrap: wrap; 
+    text-align: center;  
+}
+
+img {
+    width: 35%;
+    height: 300px;
+    border-radius: 40px;
+}
+
+.titre_gras{
+    font-weight: bold;
+    font-size: 19px;
+}
+
+form {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.ajout {
+    background-color: #EEEEEE  ;
+    width: 60%;
+    height: 310px;
+    padding-top: 30px;
+    border-radius: 10px;
+}
+
+button {
+    width: 140px;
+    height: 50px;
+    font-size: 20px;
+    background-color: #FC8C8C ;
+    border: 0px;
+    border-radius: 20px;
+}
+
+.Lien {
+    text-align: center;
+}
